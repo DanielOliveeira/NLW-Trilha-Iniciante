@@ -13,7 +13,4 @@ let metas = [
 
 console.log(metas[0].value)
 
-// //Function  //arrow function
-// const criaMeta = () => {}
 
-// function criarMeta() {}
