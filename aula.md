@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
--  [x] Comentários
+-  Comentários
 - Declaração de variáveis (const,let)
 - Operadores (atribuição, number, boolean)
 - Tipos de dados(string, number , boolean)
@@ -48,7 +48,7 @@ const -> declarar variaveis imutaveis
  ### Arrays:
 
 - [x]Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, find, forEach, filter: HOF (Higher Order Functions)
+- [x] Métodos de array: push, find, forEach, filter , map: HOF (Higher Order Functions)
 
  ### Objetos:
 
@@ -56,7 +56,7 @@ const -> declarar variaveis imutaveis
 - [x] Criação e manipulação de objetos
 - [x]Acesso a propriedades de objetos
 
-### Funtions
+### Functions
 - [x] criar, passar argumento
 = [x] executar
 - [x arrow function / named function]
@@ -67,8 +67,8 @@ const -> declarar variaveis imutaveis
 
  # Condicionais
 
- -[x] switch
- -[x] if/else
+ - [x] switch
+ - [x] if/else
 
  ## Módulos em Node.js:
 
