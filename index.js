@@ -1,16 +1,9 @@
-// arrys, objetos
-let meta = {
-    value: 'Ler um livro por mes',
-    checked: false,
-}
-let metas = [
-    meta,
-    {
-        value: "caminha 20 minutos todo dia",
-        checked: false
+function start(){
+    let count = 0
+    while(count < 10){
+        console.log(count)
+        count = count + 1
     }
-]
+}
 
-console.log(metas[0].value)
-
-
+start()
