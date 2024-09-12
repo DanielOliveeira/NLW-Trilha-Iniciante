@@ -39,7 +39,8 @@ const -> declarar variaveis imutaveis
 ## Operadores
  
 - [x] Operadores de atribuição de valrores -> =
--[x] Operador de contatenação
+- [x] Operador de contatenação -> +
+- [x] Operadores de comparação -> == != <= >= < >
 
  ## Estrutura de dados:
 
@@ -65,6 +66,7 @@ const -> declarar variaveis imutaveis
  # Condicionais
 
  -[x] switch
+ -[x] if/else
 
  ## Módulos em Node.js:
 
