@@ -65,3 +65,12 @@ const -> declarar variaveis imutaveis
  # Condicionais
 
  -[x] switch
+
+ ## Módulos em Node.js:
+
+ - [x] Importação de módulos (require, CommonJS) 
+ - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+ ## Progamaçao assícrona e Promises:
+
+ - [x] Uso de funções assícronas (assyn/await)
