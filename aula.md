@@ -74,6 +74,13 @@ const -> declarar variaveis imutaveis
 
  - [x] Importação de módulos (require, CommonJS) 
  - [x] Biblioteca 'inquirer' para criar prompts interativos
+ - [x FS (file system)]
+
+ ## JSON
+
+ - [x] JavaScript Object Notation (.json)
+ - [x] JSON.parse() -> Transforma de JSON para JS
+ - [x] JSON.stringfy() -> Transforma de JS para JSON
 
  ## Progamaçao assícrona e Promises:
 
