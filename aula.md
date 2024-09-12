@@ -61,3 +61,7 @@ const -> declarar variaveis imutaveis
 # Estrutura de repetição
 
 - [x] while
+
+ # Condicionais
+
+ -[x] switch
